@@ -1,6 +1,7 @@
 gs2.ww.prod.dl.playstation.net
 *.gs2.ww.prod.dl.playstation.net
 *.gs2.sonycoment.loris-e.llnwd.net
+*.update.sonycoment.loris-e.llnwd.net
 gs2-ww-prod.psn.akadns.net
 *.gs2-ww-prod.psn.akadns.net
 gs2.ww.prod.dl.playstation.net.edgesuite.net
@@ -14,3 +15,5 @@ gst.prod.dl.playstation.net
 vulcan.dl.playstation.net
 sgst.prod.dl.playstation.net
 psnobj.prod.dl.playstation.net
+*.update.playstation.net
+*.community.playstation.net.edgekey.net
