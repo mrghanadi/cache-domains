@@ -17,3 +17,5 @@ sgst.prod.dl.playstation.net
 psnobj.prod.dl.playstation.net
 *.update.playstation.net
 *.community.playstation.net.edgekey.net
+*.h.akamai.net
+*.d.akamai.net
